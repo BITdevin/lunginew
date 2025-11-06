@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
         It allows the browser's preload scanner to discover and start loading the most important visual element on the page much earlier than a CSS background-image.
       */}
       <img
-        src="/public/media/Lungi.jpg"
+        src="/media/jjLungi.jpg"
         alt="Professional portrait of Lungile Mhango in a studio"
         aria-hidden="true"
         fetchPriority="high"
