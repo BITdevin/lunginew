@@ -1,0 +1,93 @@
+# Textual Wireframe: Lungile Mhango Website (v2 - Single Page)
+
+## [ Header (Sticky) ]
++--------------------------------------------------------------------------+
+| Lungile Mhango (Logo) | [About] [Career] [Foundation] [Business] [Media] [Button: Book Me] [Dark Mode] |
++--------------------------------------------------------------------------+
+
+## [ Section 1: Hero ]
++--------------------------------------------------------------------------+
+|                   [Background Image: Professional Portrait]              |
+|                                                                          |
+|                       <h1>LUNGILE MHANGO</h1>                            |
+|                 <p>Radio Host | MC | DJ | Speaker...</p>                  |
+|                                                                          |
+|                     [Button: Book Me For Your Event]                     |
+|                                                                          |
+|                [Animated Audio Visualizer at Bottom]                     |
++--------------------------------------------------------------------------+
+
+## [ Section 2: About ]
++--------------------------------------------------------------------------+
+| [Image: Lungile Smiling]  |  <h2>The Voice of Mpumalanga</h2>            |
+|                           |  <p>Bio text...</p>                           |
+|                           |  +-----------------------------------------+ |
+|                           |  |  <h3>The Story of a Scar</h3>           | |
+|                           |  |  <p>Verbatim quote about her scar...</p> | |
+|                           |  +-----------------------------------------+ |
++--------------------------------------------------------------------------+
+
+## [ Section 3: Career Timeline ]
++--------------------------------------------------------------------------+
+|                   <h2>Career Milestones</h2>                              |
+|                                                                          |
+|              -- (2006) [Icon] Barberton Community Radio --               |
+|             |                                            |               |
+| -- Ligwalagwala FM [Icon] (Present) -------------------- |               |
+|                                                                          |
++--------------------------------------------------------------------------+
+
+## [ Section 4: Foundation ]
++--------------------------------------------------------------------------+
+|                 <h2>Lungile Mhango Foundation</h2>                        |
+| <p>Description of the foundation's mission...</p>                          |
+|                [Button: Get Involved] [Button: Donate]                   |
++--------------------------------------------------------------------------+
+
+## [ Section 5: Business Ventures ]
++--------------------------------------------------------------------------+
+|                    <h2>A Taste of Success</h2>                            |
+| <p>Intro to her entrepreneurial side in Mataffin...</p>                   |
+|                                                                          |
+| +-------------------------+  +-----------------------------------------+ |
+| | [Image: Food Plate]     |  | [Image: Clean Car]                      | |
+| | <h3>L Mango Kitchen</h3> |  | <h3>Exclusive Car Wash</h3>               | |
+| | <p>Menu details...</p>   |  | <p>Sunday vibe description...</p>        | |
+| +-------------------------+  +-----------------------------------------+ |
++--------------------------------------------------------------------------+
+
+## [ Section 6: Media ]
++--------------------------------------------------------------------------+
+|                      <h2>Media & Moments</h2>                             |
+|                                                                          |
+| +--------------------------+  +----------------------------------------+ |
+| | [YouTube Embed:         |  | [TikTok Promo Card]                    | |
+| |  Interview]              |  | <h3>Follow on TikTok</h3>               | |
+| |                          |  | <p>@lungilemango</p>                     | |
+| +--------------------------+  +----------------------------------------+ |
++--------------------------------------------------------------------------+
+
+## [ Section 7: Booking ]
++--------------------------------------------------------------------------+
+|                      <h2>Book Lungile</h2>                                |
+| <p>Looking for an MC, DJ, or Speaker? Fill out the form below...</p>      |
+|                                                                          |
+|                     +------------------------------------+               |
+|                     | [Input: Name]   [Input: Email]     |               |
+|                     | [Select: Event] [Input: Date]      |               |
+|                     | [Textarea: Event Details]          |               |
+|                     | [Button: Send Booking Request]     |               |
+|                     +------------------------------------+               |
+|                                                                          |
+|                      [Button: Chat on WhatsApp]                          |
++--------------------------------------------------------------------------+
+
+## [ Floating Component: Audio Player ]
++----------------------------------+
+| [Play/Pause Button] [Clip Title] |
++----------------------------------+
+
+## [ Footer ]
++--------------------------------------------------------------------------+
+| © 2024 Lungile Mhango. All Rights Reserved. | [Icon: Instagram] [Icon: TikTok] |
++--------------------------------------------------------------------------+
