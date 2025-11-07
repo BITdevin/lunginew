@@ -21,7 +21,7 @@ const About: React.FC = () => {
               {/* Sticky container ensures the image stays in view on larger screens */}
               <div className="sticky top-28">
                 <img
-                  src="/public/media/hero.jpg"
+                  src="/media/hero.jpg"
                   alt="Lungile Mhango smiling warmly"
                   className="rounded-lg shadow-2xl object-cover w-full h-full aspect-[4/5]"
                   loading="lazy"

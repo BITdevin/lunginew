@@ -20,7 +20,7 @@ const Business: React.FC = () => {
                     {/* L Mango Kitchen Card */}
                     <FadeInSection>
                         <div className="bg-white dark:bg-charcoal rounded-lg shadow-2xl overflow-hidden flex flex-col transition-transform transform hover:scale-105 duration-300 h-full">
-                            <img src="/public/media/food.jpg" alt="Delicious plate of rice and fish from L Mango Kitchen" className="w-full h-64 object-cover" loading="lazy" />
+                            <img src="/media/food.jpg" alt="Delicious plate of rice and fish from L Mango Kitchen" className="w-full h-64 object-cover" loading="lazy" />
                             <div className="p-8 flex-grow flex flex-col">
                                 <div className="flex items-center gap-4 mb-4">
                                     <FoodIcon />
@@ -41,7 +41,7 @@ const Business: React.FC = () => {
                     {/* Exclusive Car Wash Card */}
                     <FadeInSection delay={200}>
                         <div className="bg-white dark:bg-charcoal rounded-lg shadow-2xl overflow-hidden flex flex-col transition-transform transform hover:scale-105 duration-300 h-full">
-                            <img src="/public/media/Car.jpg" alt="A freshly washed car at Exclusive Car Wash" className="w-full h-64 object-cover" loading="lazy" />
+                            <img src="/media/Car.jpg" alt="A freshly washed car at Exclusive Car Wash" className="w-full h-64 object-cover" loading="lazy" />
                             <div className="p-8 flex-grow flex flex-col">
                                 <div className="flex items-center gap-4 mb-4">
                                     <CarIcon />
